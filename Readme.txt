@@ -1,0 +1,1 @@
+Android port for my previous chat-server files. Currently unpublished on the Android Marketplace for obvious reason.
